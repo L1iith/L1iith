@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Darr0k
+- 🌱 I’m currently learning Js
+- 📫 How to reach me Discord
