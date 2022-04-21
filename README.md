@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Darr0k
-- 🌱 I’m currently learning Js
+- 👋 Hi, I’m Darrk
+- 🌱 I’m currently learning C++
 - 📫 How to reach me Discord
