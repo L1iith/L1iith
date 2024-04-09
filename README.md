@@ -18,6 +18,8 @@ https://discord.gg/darrk
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
+![dart](https://img.shields.io/badge/dart-black?style=flat-square&logo=dart)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 
 ### Technologies & Frameworks
 
@@ -33,7 +35,9 @@ https://discord.gg/darrk
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
-
+![svelte](https://img.shields.io/badge/svelte-black?style=flat-square&logo=svelte)
+![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
+![flutter](https://img.shields.io/badge/react-black?style=flat-square&logo=flutter)
 ### DevOps & Tools
 
 ![vscode](https://img.shields.io/badge/vscode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
