@@ -7,7 +7,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Darr0k&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+!![snake animation](https://github.com/Darr0k/Darr0k/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🚀 Technologies & Tools
 https://discord.gg/darrk
