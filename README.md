@@ -9,7 +9,6 @@
 
 
 ## 🚀 Technologies & Tools
-https://discord.gg/darrk
 ### Languages
 
 ![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
